@@ -170,7 +170,7 @@ main {
     border: 2px solid #ccc;
 }
 .in:nth-of-type(2n) span:first-child {
-    background: #ec4040;
+    background: #ff1e1e;
 }
 .in:nth-of-type(2n) span:last-child {
     background: #1f0008;
